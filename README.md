@@ -1,5 +1,5 @@
 ### Date created
-03/10/2020
+03/10/2020(Saturday, 3rd of October 2020)
 
 ### Project Title
 pdsnd_github
