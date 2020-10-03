@@ -9,6 +9,9 @@ Using Python to explore data related to bike share systems for three major citie
 
 ### Files used
 bikeshare.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github
